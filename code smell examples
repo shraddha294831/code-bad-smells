@@ -1,0 +1,10 @@
+//A void method in java
+public void sample()
+{
+   //Statements
+   //if (somethingWrong) then
+   IOException e = new IOException();
+   throw;
+   //More Statements
+ }
+ 
