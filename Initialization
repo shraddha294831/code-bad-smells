@@ -1,0 +1,4 @@
+DataTable mytable = new DataTable();  // Initialization is not necessary
+mytable = GetDataTable();
+one should instead use
+DataTable mytable = GetDataTable ();
